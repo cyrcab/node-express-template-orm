@@ -1,6 +1,6 @@
 ### Template Node Backend + Express + Prisma
 
-It's a template for a backend that will be used with a frontend (like React, Vue, Angular, etc.).
+It's a template for a backend using JavaScript that will be used with a frontend (like React, Vue, Angular, etc.).
 Using this template, you will be able to create a backend with a database (PostgreSQL) and a GraphQL API using Prisma.
 MongoDB and SQL are also available.
 
@@ -56,8 +56,11 @@ yarn start:watch
 
 I invite you to read the documentation of the packages used in this template.
 
-Express : https://expressjs.com/
-jtw : https://jwt.io/
-argon2 : https://www.npmjs.com/package/argon2
-cookie-parser : https://www.npmjs.com/package/cookie-parser
-cors : https://www.npmjs.com/package/cors
+- Express : https://expressjs.com/
+- jtw : https://jwt.io/
+- argon2 : https://www.npmjs.com/package/argon2
+- cookie-parser : https://www.npmjs.com/package/cookie-parser
+- cors : https://www.npmjs.com/package/cors
+
+Thanks to the creators of these packages and to the creators of the template that I used as a basis for this one.
+AppyCoding -  Cyril Cabrolier 🖤.
