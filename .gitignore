@@ -1,4 +1,9 @@
+
+# ignore node module
 /node_modules
+
+# mac create this file and your coworker don't care about this
 DS_Store
-~
+
+# don't push your environment variale because you can store in sensitive data
 .env

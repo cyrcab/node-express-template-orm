@@ -1,6 +1,8 @@
 ### Template Node Backend + Express + Prisma
 
-This is a template for a Node.js backend with Express and Prisma.
+It's a template for a backend that will be used with a frontend (like React, Vue, Angular, etc.).
+Using this template, you will be able to create a backend with a database (PostgreSQL) and a GraphQL API using Prisma.
+MongoDB and SQL are also available.
 
 ## Getting Started
 
