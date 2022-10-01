@@ -18,13 +18,15 @@ if you have yarn installed:
 yarn
 ```
 
+> Then go to https://www.prisma.io/ for more information.
+
 You can implement your own database by changing the `datasource` in `prisma/schema.prisma` and then run:
 
 ```bash
 npx prisma migrate dev --name init
 ```
 
-then go to https://www.prisma.io/ for more information.
+> Then go to https://www.prisma.io/ for more information.
 
 ## Development
 
